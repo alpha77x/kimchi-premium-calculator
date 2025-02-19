@@ -2,7 +2,7 @@
 김치 프리미엄을 계산할 수 있는 프로그램입니다.
 
 ## 기술 스택
-언어: `Python` `JavaScript (Node.js)`
+언어: `Python`, `JavaScript (Node.js)`
 
 **라이브러리**
 
